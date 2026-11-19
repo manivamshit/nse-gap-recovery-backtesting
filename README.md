@@ -146,3 +146,10 @@ No npm, build process, paid hosting, or API key is required.
 > Large negative opening gaps can coincide with intraday recoveries, but high aggregate historical win rates can be dominated by a small number of correlated market sessions. In this one-year Nifty 500 study, no 70%+ strategy met the predefined later-period validation criteria. The result is a demonstration of the importance of robustness, time-split validation, and realistic execution assumptions.
 
 **Educational research only — not investment advice or evidence of guaranteed future returns.**
+
+
+## Independence and educational-use disclaimer
+
+Independent educational research. Not affiliated with or endorsed by NSE, NSE Indices or SEBI. This dashboard does not offer investment advice, stock recommendations or predictions. Aggregated statistics are presented for portfolio demonstration; publication remains subject to applicable source-data terms.
+
+Before redistributing raw exchange-derived data or stock-level records, verify the applicable licensing and redistribution permissions.
